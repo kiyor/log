@@ -1,4 +1,4 @@
-module gitlab.com/bunnytech/log
+module github.com/kiyor/log
 
 go 1.20
 
